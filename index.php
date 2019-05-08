@@ -4,6 +4,7 @@
     echo "Hey <br>";
     $text = new Text();
 
-    echo $text->sometext;
+    echo $text->sometext . "<br>";
+    echo $text->secondtext;
 
 ?>
