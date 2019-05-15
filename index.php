@@ -8,6 +8,7 @@
 
     echo $text->sometext . "<br>";
     echo $text->secondtext . "<br>";
-    echo $textsecond->text3;
+    echo $textsecond->text3. "<br>";
+    echo $text->bored;
 
 ?>
