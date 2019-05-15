@@ -12,5 +12,6 @@
     echo $text->bored;
 
 
-    echo "Can we please stop"
+    echo "Can we please stop";
+    echo "At least we can leave 15 minutes earlier I guess :(";
 ?>
