@@ -6,4 +6,6 @@
 
     echo $text->sometext;
 
+    //just a test for now
+
 ?>
